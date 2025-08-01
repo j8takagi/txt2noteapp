@@ -32,3 +32,7 @@ From the terminal:
 
 ```sh
 osascript ~/Library/Scripts/txt2memo.scpt /path/to/textfile.txt
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
