@@ -4,10 +4,8 @@ AppleScript to send the contents of a plain text (`.txt`) file to the macOS Note
 
 ## Features
 
+- Sends the contents of the plain text (.txt) file specified as an argument to the macOS Notes app as a new note.
 - Uses the first line of the file as the note title
-- Converts each line of the text into a separate line in the note
-- Optionally converts line breaks to `<br>` (HTML-style line breaks)
-- Supports automatic tagging using lines that begin with `#` (Notes app tags)
 
 ## Requirements
 
